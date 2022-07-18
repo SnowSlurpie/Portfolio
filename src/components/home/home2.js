@@ -20,16 +20,16 @@ function Home2() {
               <br />I am fluent in classics like HTML, CSS, and JavaScript!
               <br />
               Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              with <b className="color">Node.js</b> and
               <i>
-                <b className="purple">
+                <b className="color">
                   {" "}
                   Modern Javascript Library and Frameworks
                 </b>
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="color"> React.js and Next.js</b>
               </i>
             </p>
             </Col>
@@ -38,7 +38,7 @@ function Home2() {
           <Col md={12} className="home-about-social">
             <h1>Talk to me here</h1>
             <p>
-              Feel free to <span className="purple">connect </span>with me
+              Feel free to <span className="color">connect </span>with me
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">

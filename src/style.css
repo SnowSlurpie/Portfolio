@@ -433,7 +433,7 @@ html {
   /* --------- */
   /* Projects */
   /* --------- */
-  .project-section {
+  .project-container {
     position: relative !important;
     padding-top: 150px !important;
     padding-bottom: 30px !important;
@@ -520,7 +520,7 @@ html {
     outline: none !important;
     box-shadow: none !important;
   }
-  .project-heading {
+  .project-head {
     color: white !important;
     font-size: 2.3em !important;
     font-weight: 500 !important;
