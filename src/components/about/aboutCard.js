@@ -27,7 +27,7 @@ function AboutCard() {
             </li>
           </ul>
 {/* Try to remember how to make these 3 appear in slowly one at a time over a few seconds */}
-          <p style={{ color: "rgb(155 126 172)" }}>
+          <p>
             "The best thing about a boolean is even if you are wrong, you are only off by a little bit."{" "}
           </p>
           <footer className="blockquote-footer">Anonymous</footer>
