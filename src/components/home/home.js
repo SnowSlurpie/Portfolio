@@ -3,6 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import Particle from "react-tsparticles";
 import Typing from "./typewriting";
 import homepic from "../../assets/mainhomepic.png"
+import Home2 from "./home2";
 
 function Home() {
     return (

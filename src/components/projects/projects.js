@@ -4,7 +4,7 @@ import ProjectCard from "./projectCard";
 import Particle from "../particle";
 import pawnder from "../../assets/projects/pawnder.png";
 import runBuddy from "../../assets/projects/run-buddy.png";
-import spirit from "../../assets/projects/spirit.png";
+import spirit from "../../assets/projects/spirit.jpg";
 
 
 function Projects() {

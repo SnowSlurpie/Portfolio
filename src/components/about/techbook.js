@@ -9,7 +9,7 @@ import {
   DiGit,
 } from "react-icons/di";
 
-function techbook() {
+function Techbook() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
@@ -25,7 +25,6 @@ function techbook() {
         <DiMongodb />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiNextdotjs />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiGit />
@@ -34,4 +33,4 @@ function techbook() {
   );
 }
 
-export default techbook;
+export default Techbook;

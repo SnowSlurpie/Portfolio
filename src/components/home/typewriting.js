@@ -1,7 +1,7 @@
 import React from "react";
 import Typewriter from "typewriter-effect";
 
-function typing() {
+function Typing() {
   return (
     <Typewriter
       options={{

@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import Preloader from "../src/components/Pre";
+import Pre from "../src/components/pre";
 import Navbar from "./components/navbar";
 import Home from "./components/home/home";
 import About from "./components/about/about";
@@ -29,10 +29,9 @@ function App() {
 
   return (
     <Router>
-      <Preloader load={load} />
+      <Pre load={load} />
       <div className="App" id={load ? "no-scroll" : "scroll"}>
         <Navbar />
-        <ScrollToTop />
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/project" element={<Projects />} />

@@ -1,8 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Particle from "../particle";
-import Github from "./github";
-import techbook from "./techbook";
+import Techbook from "./techbook";
 import Toolstack from "./toolbook";
 import Aboutcard from "./aboutCard";
 import laptopImg from "../../assets/aboutmephoto.png";
@@ -39,14 +38,12 @@ function About() {
           Professional <strong className="color">Skillset </strong>
         </h1>
 
-        <techbook />
+        <Techbook />
 
         <h1 className="project-head">
           <strong className="color">Tools</strong> I use
         </h1>
         <Toolstack />
-
-        <Github />
       </Container>
     </Container>
   );
