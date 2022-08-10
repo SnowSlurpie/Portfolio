@@ -1,17 +1,13 @@
 import React, { useState, useEffect } from "react";
 import Pre from "../src/components/pre";
-import Navbar from "./components/navbar";
-import Home from "./components/home/home";
-import About from "./components/about/about";
-import Projects from "./components/projects/projects";
-import Footer from "./components/footer";
-import Resume from "./components/resume/resume";
+import Navbar from "./components/navbar.js";
+import Home from "./components/home/home.js";
+import About from "./components/about/about.js";
+import Projects from "./components/projects/projects.js";
+import Footer from "./components/footer.js";
+import Resume from "./components/resume/resume.js";
 import {
-  BrowserRouter as Router,
-  Route,
-  Routes,
-  Navigate
-} from "react-router-dom";
+  BrowserRouter as Router, Route, Routes, Navigate} from "react-router-dom";
 import "./style.css";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";

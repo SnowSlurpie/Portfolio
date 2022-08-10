@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import Particle from "react-tsparticles";
+import Particle from "../particle";
 import Typing from "./typewriting";
 import homepic from "../../assets/mainhomepic.png"
 import Home2 from "./home2";
@@ -21,8 +21,7 @@ function Home() {
                 </h1>
   
                 <h1 className="heading-name">
-                  Hello! Thank you for visiting my portfolio. I am
-                  <strong className="color"> Alex Running!</strong>
+                  Thank you for visiting my portfolio. I am <strong className="color"> Alex Running</strong>
                 </h1>
   
                 <div style={{ padding: 50, textAlign: "left" }}>

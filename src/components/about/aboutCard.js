@@ -1,6 +1,6 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
-import { ImPointRight } from "react-icons/im";
+import { GiSevenPointedStar} from "react-icons/gi";
 
 function AboutCard() {
   return (
@@ -13,17 +13,17 @@ function AboutCard() {
             <br />I am a full stack developer with a passion for building applications that are user friendly and easy to use.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Apart from coding, some other activities that I love to do include:
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <GiSevenPointedStar /> Kayaking
             </li>
             <li className="about-activity">
-              <ImPointRight /> Traveling with my family
+              <GiSevenPointedStar /> Traveling with my family
             </li>
             <li className="about-activity">
-              <ImPointRight /> Playing Videogames
+              <GiSevenPointedStar /> Playing Videogames
             </li>
           </ul>
 {/* Try to remember how to make these 3 appear in slowly one at a time over a few seconds */}
