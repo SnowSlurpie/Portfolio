@@ -17,7 +17,7 @@ function Home2() {
               Let me tell you a little bit about <span className="color">myself!</span>
             </h1>
             <p className="home-about-body">
-              I have completed a rigerous educational program that allowed me to develop the necessary skills to be a successful software developer. I have a passion for learning and I am always looking to improve my skills.
+              I have completed a rigorous educational program that allowed me to develop the necessary skills to be a successful software developer. I have a passion for learning and I am always looking to improve my skills.
               <br />
               <br />I am fluent in HTML, CSS, and Javascript. I am an effecient and concise  communicator that has experience coordinating with large teams with different backgrounds through Kanban & daily Scrum meetings.
               <br />
