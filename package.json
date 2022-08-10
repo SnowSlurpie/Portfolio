@@ -1,8 +1,8 @@
 {
-  "homepage":"http://SnowSlurpie.github.io/portfolio",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage":"http://snowslurpie.github.io/portfolio",
   "dependencies": {
     "axios": "^0.26.1",
     "bootstrap": "^5.1.3",

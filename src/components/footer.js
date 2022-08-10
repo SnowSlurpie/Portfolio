@@ -11,6 +11,10 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-body">
+        </Col>
+          <Col md="4" className="footer-copywright">
+          <h3>Copyright © {year} AR</h3>
+          </Col>
           <ul className="footer-icons">
             <li className="social-icons">
               <a
@@ -31,7 +35,6 @@ function Footer() {
               </a>
             </li>
           </ul>
-        </Col>
       </Row>
     </Container>
   );
