@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.aed8f36c.css",
+    "main.js": "/portfolio/static/js/main.04f27683.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/devPhoto.jpg": "/portfolio/static/media/devPhoto.879e003b12a0625d97c7.jpg",
+    "static/media/run-buddy.png": "/portfolio/static/media/run-buddy.f619389d4f309b51a1de.png",
+    "static/media/book.png": "/portfolio/static/media/book.f291e9f9424c8392f350.png",
+    "static/media/dbd.jpg": "/portfolio/static/media/dbd.56b60449070159fbe897.jpg",
+    "static/media/mainhomepic.png": "/portfolio/static/media/mainhomepic.403e0c56920d1fe04d02.png",
+    "static/media/aboutmephoto.png": "/portfolio/static/media/aboutmephoto.db6aa5d1de63a56ee723.png",
+    "static/media/spirit.jpg": "/portfolio/static/media/spirit.311d2167c4127cc388cf.jpg",
+    "static/media/Alex_Running_Resume.pdf": "/portfolio/static/media/Alex_Running_Resume.8070379241f2894f1194.pdf",
+    "static/media/chore.png": "/portfolio/static/media/chore.2369490179f369cc8a6c.png",
+    "static/media/pawnder.png": "/portfolio/static/media/pawnder.8daa19511e0dadaabbc5.png",
+    "static/media/pre.svg": "/portfolio/static/media/pre.3fdc909a0e8b8fef1169.svg",
+    "index.html": "/portfolio/index.html",
+    "main.aed8f36c.css.map": "/portfolio/static/css/main.aed8f36c.css.map",
+    "main.04f27683.js.map": "/portfolio/static/js/main.04f27683.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aed8f36c.css",
+    "static/js/main.04f27683.js"
+  ]
+}
